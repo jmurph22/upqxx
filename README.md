@@ -1,2 +1,2 @@
 # upqxx
-Simplified frontend to libpqxx.
+Simplified frontend library for libpqxx.
