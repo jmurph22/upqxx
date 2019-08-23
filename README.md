@@ -1,2 +1,4 @@
 # upqxx
-Simplified frontend library for libpqxx. Currently WIP and a future placeholder.
+Simplified frontend library for libpqxx.
+
+More to be documented later!
