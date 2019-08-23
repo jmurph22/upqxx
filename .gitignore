@@ -1,4 +1,8 @@
 *.so
 *.a
-old/
+*.o
 *.debug
+*.gch
+
+old/
+.vscode/
