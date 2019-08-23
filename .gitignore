@@ -3,6 +3,7 @@
 *.o
 *.debug
 *.gch
+test
 
 old/
 .vscode/
